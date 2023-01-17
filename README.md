@@ -1,2 +1,2 @@
 # UnHider
-UnHide File And Folders
+UnHide All File And Folders in Current Directory
